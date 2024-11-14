@@ -1,0 +1,1 @@
+This is just a small tool  that takes as input a csv file containing a list of participants for a conference. It assumes a column for Name, Firstname, Affiliation and it generated a pdf file containing name tags.
